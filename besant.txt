@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey guys ..today is friday ..party day
+=======
+Tmrw holiday till wednesday...
+>>>>>>> btm1
